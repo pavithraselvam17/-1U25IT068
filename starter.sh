@@ -1,1 +1,2 @@
 
+sudo bash starter.sh
